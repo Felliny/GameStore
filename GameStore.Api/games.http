@@ -1,0 +1,29 @@
+GET http://localhost:5028/games
+
+###
+GET http://localhost:5028/games/33
+
+###
+POST http://localhost:5028/games
+Content-Type: application/json
+
+{
+    "name": "Persona 4 Golden",
+    "genre": "RPG",
+    "price": 100.00,
+    "releaseDate": "2012-06-14"
+}
+
+###
+PUT http://localhost:5028/games/5
+Content-Type: application/json
+
+{
+    "name": "Persona 4 Golden",
+    "genre": "RPG",
+    "price": 50.00,
+    "releaseDate": "2012-06-14"
+}
+
+###
+DELETE http://localhost:5028/games/2
