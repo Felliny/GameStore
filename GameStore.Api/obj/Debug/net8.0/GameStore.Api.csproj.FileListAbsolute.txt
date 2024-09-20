@@ -24,3 +24,9 @@ C:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\obj
 C:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.pdb
 C:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.genruntimeconfig.cache
 C:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\obj\Debug\net8.0\ref\GameStore.Api.dll
+c:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\bin\Debug\net8.0\MinimalApis.Extensions.dll
+c:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\bin\Debug\net8.0\MiniValidation.dll
+c:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.csproj.AssemblyReference.cache
+c:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\obj\Debug\net8.0\GameStore.Api.MvcApplicationPartsAssemblyInfo.cs
+c:\Users\felin\OneDrive\Desktop\coisinhas\codigos\C#\GameStore\GameStore.Api\obj\Debug\net8.0\GameStor.5118A84D.Up2Date
