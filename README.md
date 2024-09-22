@@ -1,6 +1,6 @@
 # GameStore-REST_API
 
-A REST API, made in C# with ASP.NET
+A REST API, made in C# with framework ASP.NET.
 
 - net8.0
 
